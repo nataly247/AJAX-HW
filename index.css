@@ -1,0 +1,23 @@
+body{
+    max-width: 960px;
+    margin:auto;
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    
+}
+
+h1,h2,h3{
+  font-family: Arial,sans-serif;
+  padding: 10px;
+}
+
+button{
+  font-size: 15px;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+button:hover{
+  color: blue;
+}
